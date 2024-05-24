@@ -1,0 +1,18 @@
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* I just looked at the solution and I guess if you wanted you
+could do the .clickMe, .otherClickMe which would work fine to combine them.
+I just recognized they were both buttons so why not. */
+
+.clickMe {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.otherClickMe {
+    background-color: yellow;
+}
